@@ -32,10 +32,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 // Initial state
 const initialState = {
-  todos: [
-    {  },
-   
-  ],
+  todos: [{ },],
 };
 
 // Redux slice
